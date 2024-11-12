@@ -1,0 +1,13 @@
+.DS_Store
+catboost_info/catboost_training.json
+catboost_info/learn_error.tsv
+catboost_info/test_error.tsv
+catboost_info/time_left.tsv
+catboost_info/learn/events.out.tfevents
+catboost_info/test/events.out.tfevents
+catboost_info/tmp/cat_feature_index.4ecee364-97a924bd-6a050431-62403b73.tmp
+catboost_info/tmp/cat_feature_index.5e318345-d9b31b3c-3dd1d731-6eb68cd8.tmp
+catboost_info/tmp/cat_feature_index.9d9960e1-64a70214-ebb4e8cc-b36a6fda.tmp
+catboost_info/tmp/cat_feature_index.772a089c-286158fd-e1b733f4-fe8b662e.tmp
+catboost_info/tmp/cat_feature_index.11862600-8c60356b-7cbf5af7-e38f486b.tmp
+catboost_info/tmp/cat_feature_index.f6bb8550-b92b1964-6cff6523-2db2a3f3.tmp
